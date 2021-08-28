@@ -2,7 +2,7 @@ body {
     border: 2px;
     background-color: rgba(175, 236, 223, 0.521);
 }
-h1 {
+.Title {
     margin: 0;
     text-align: center;
 }
@@ -14,11 +14,6 @@ h2 {
 h3 {
     margin: bottom;
     text-align: left;
-}
-h4 {
-    margin: top;
-    text-align: center;
-}
 p {
     margin: auto;
     text-align: justify;
