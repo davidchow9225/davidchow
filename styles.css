@@ -6,6 +6,9 @@ body {
     margin: 0;
     text-align: center;
 }
+.SubSection {
+    margin: 50px;
+}
 h2 {
     margin: auto;
     text-align: left;
@@ -18,4 +21,7 @@ h3 {
 p {
     margin: auto;
     text-align: justify;
+}
+footer {
+    margin-top: 25px;
 }
