@@ -7,15 +7,17 @@ body {
     text-align: center;
 }
 .SubSection {
-    margin-top: 50px;
-}
+    margin-top: 30px;
+    margin-bottom: 0;}
 h2 {
     margin: auto;
+    margin-bottom: 0;
     text-align: left;
 }
 
 h3 {
     margin: bottom;
+    margin-bottom: 0;
     text-align: left;
 }
 p {
@@ -24,4 +26,5 @@ p {
 }
 footer {
     margin-top: 25px;
+    margin-bottom: 0;
 }
