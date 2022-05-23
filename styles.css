@@ -1,9 +1,12 @@
 body {
     border: 2px;
-    background-color: rgba(175, 236, 223, 0.521);
+    margin: 5%;
+    margin-right: 10%;
+    font-size: 1.6vw;
+    background-color: rgba(59, 59, 240, 0.226);
 }
 .Title {
-    margin: 0;
+    margin-bottom: 45px;
     text-align: center;
 }
 .SubSection {
